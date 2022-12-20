@@ -6,7 +6,7 @@ First of all everyone interested in this topic should know where previously used
 
 1. If you open up a terminal and type
 
-     - cat ~/.bash_history
+     - more ~/.bash_history
        - [Lists the content of the bash_history file, which is used to store used commands]
 
 2. Clearing the history of the current BASH Shell
